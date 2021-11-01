@@ -4,4 +4,4 @@ I got docker completion scripts from official docker/cli repo <https://github.co
 
 I got yarn completion scripts from <https://github.com/chrisands/zsh-yarn-completions>
 
-I just need it to follow a naming convention from easy of use.
+I just need it to follow a naming convention for easy of use.
